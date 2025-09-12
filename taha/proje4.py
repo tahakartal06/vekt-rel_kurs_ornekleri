@@ -1,0 +1,11 @@
+print("╔"+"═"*30+"╗")
+print("║         Alan ve Çevre        ║")
+print("║                              ║")
+print("║        1-Alan Hesapla        ║")
+print("║        2-Çevre Hesapla       ║")
+print("║                              ║")
+print("║                              ║")
+print("║                              ║")
+print("║    Lütfen seçim yapınız :)   ║")
+print("╚"+"═"*30+"╝")
+

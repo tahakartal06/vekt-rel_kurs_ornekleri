@@ -1,0 +1,4 @@
+print("Toplama Program")
+sayi1 = input("1.Sayıyı giriniz:")
+sayi2 = input("2.Sayıyı giriniz:")
+print(f"Sonuç: {int(sayi1)+int(sayi2)}")
