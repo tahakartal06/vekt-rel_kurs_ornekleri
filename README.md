@@ -1,6 +1,4 @@
-# vektorel_kurs_ornekleri
-
-## vektorel_kurs_ornekleri
-
-### vektorel_kurs_ornekleri
-
+***taha+kartal***
+__taha__
+* taha
+* kartal
