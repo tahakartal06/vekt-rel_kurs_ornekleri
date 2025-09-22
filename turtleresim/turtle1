@@ -1,0 +1,19 @@
+import random, turtle
+turtle.speed(10)
+renkler = ["red","green","blue","olive","pink","gray"]
+
+
+for b in range(random.randint(1,10)):
+   xx = random.randint(-200,200)
+   yy = random.randint(-200,200)
+   turtle.up()
+   turtle.goto(xx,yy)
+   turtle.down()
+   turtle.color(random.choice(renkler))
+   kenaruzunlugu = random.randint(50,200)
+   kenarsayisi = random.randint(3,10)
+   for a in range(kenarsayisi):
+       turtle.forward(kenaruzunlugu)
+       turtle.right(360/kenarsayisi)
+    
+input()

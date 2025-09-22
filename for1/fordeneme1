@@ -1,0 +1,10 @@
+ciftsayilar = [2,4,6,8]
+print(ciftsayilar)
+
+ciftsayilar2 = range(4,16,2)
+print(*ciftsayilar2)
+
+ciftsayilar3 = [a for a in range(8,20,2)]
+print(ciftsayilar3)
+
+for a in "Vektorel" : print(a)
