@@ -1,0 +1,23 @@
+# a = 5
+# b = 10
+# def deneme():
+#     a = 8
+#     a += 2
+#     print(a)
+
+# deneme()
+# print(a)    
+
+
+
+a = 5
+# b = 10
+def deneme():
+    global a
+    a = 8
+    a +=2
+    print(a)
+
+
+deneme()
+print(a)
