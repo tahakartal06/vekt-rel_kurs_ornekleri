@@ -4,7 +4,7 @@ def anamenu():
     print("║           Ana sayfa          ║")
     print("║                              ║")
     print("║        1-Hesap Makinesi      ║")
-    print("║        2-Karakök ve pi       ║")
+    print("║        2-Uygulamalar         ║")
     print("║        3-Alan Hesaplama      ║")
     print("║        4-Oyunlar             ║")
     print("║                              ║")

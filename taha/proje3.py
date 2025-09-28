@@ -1,9 +1,9 @@
 def proje3():
     print("╔"+"═"*30+"╗")
-    print("║         Karakök ve Pi        ║")
+    print("║          Uygulamalar         ║")
     print("║                              ║")
-    print("║      1-Karakök hesapla       ║")
-    print("║      2-Pi Hesapla            ║")
+    print("║      1-Pozitif Negatif       ║")
+    print("║      2-                      ║")
     print("║                              ║")
     print("║                              ║")
     print("║                              ║")
