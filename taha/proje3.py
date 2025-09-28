@@ -3,7 +3,7 @@ def proje3():
     print("║          Uygulamalar         ║")
     print("║                              ║")
     print("║      1-Pozitif Negatif       ║")
-    print("║      2-                      ║")
+    print("║      2-Yazı Tura             ║")
     print("║                              ║")
     print("║                              ║")
     print("║                              ║")
