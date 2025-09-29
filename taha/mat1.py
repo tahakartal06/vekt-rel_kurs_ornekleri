@@ -1,7 +1,3 @@
-# a = 1
-# while a<10:
-#     print("Ankara")
-#     a +=1
 import random
 print(" *** Matematik alıştırmaları programı ***")
 devam = "evet"

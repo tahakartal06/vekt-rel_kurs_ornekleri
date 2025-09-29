@@ -6,7 +6,7 @@ def böl():
     print("bölme işlemi yapıldı")
 def carp():
     print("carpma işlemi yapıldı")
-def proje2menu():
+def proje2menü():
     print("╔"+"═"*30+"╗")
     print("║         Hesap Makinesi       ║")
     print("║                              ║")

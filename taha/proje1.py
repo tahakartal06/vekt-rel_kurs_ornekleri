@@ -13,16 +13,16 @@ def anamenu():
     secim = input()
     if secim == "1":
         import proje2
-        proje2.proje2menu()
+        proje2.proje2menü()
     if secim == "2":
         import proje3
-        proje3.proje3()
+        proje3.proje3menü()
     if secim == "3":
         import proje4
-        proje4.proje4()
+        proje4.proje4menü()
     if secim == "4":
         import proje5
-        proje5.proje5()
+        proje5.proje5menü()
     anamenu()
 
 anamenu()

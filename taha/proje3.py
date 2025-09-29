@@ -1,4 +1,4 @@
-def proje3():
+def proje3menü():
     print("╔"+"═"*30+"╗")
     print("║          Uygulamalar         ║")
     print("║                              ║")
