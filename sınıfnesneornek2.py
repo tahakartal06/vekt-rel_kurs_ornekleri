@@ -39,7 +39,7 @@ class Ogretmen():
 
 
 ogretmen1 = Ogretmen("Taha","512312312312341","Fizik",["10A","10B"])
-ogretmen2 = Ogretmen()
+ogretmen2 = Ogretmen("Tahaa","1231231231231","Kimya",["11B","12A"])
 ogretmen3 = Ogretmen()
 ogretmen4 = Ogretmen()
 
@@ -52,3 +52,4 @@ ogretmen4 = Ogretmen()
 print(ogretmen1.adi)
 print(ogretmen2.adi)
 print(ogretmen1.siniflari)
+print(ogretmen2.siniflari)
