@@ -1,0 +1,1 @@
+123merhabalar yeni bilgi& C:/Users/Vektorel/AppData/Local/Programs/Python/Python313/python.exe c:/Users/Vektorel/Desktop/vekt-rel_kurs_ornekleri/dosyaislemleri/klavyedengirilenbilgi.py
