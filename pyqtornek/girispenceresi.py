@@ -1,5 +1,6 @@
 # girispenceresi.py
 import sys
+import ticari
 from PyQt5 import QtWidgets, uic
 
 # Buraya kendi .ui dosyanızın adını yazın
@@ -22,7 +23,9 @@ class MainWindow(QtWidgets.QMainWindow):
         kullanici = self.lineEdit.text()
         sifre = self.lineEdit_2.text()
         if kullanici == "admin" and sifre == "1234":
-            QtWidgets.QMessageBox.information(self, "Başarılı", "Giriş başarılı!")
+            # QtWidgets.QMessageBox.information(self, "Başarılı", "Giriş başarılı!")
+            self.xxx = ticari.TicariWindow()
+            self.xxx.show()
         else:
             QtWidgets.QMessageBox.warning(self, "Hata", "Kullanıcı adı veya şifre yanlış!")
 
